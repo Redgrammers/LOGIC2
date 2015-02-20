@@ -2,7 +2,7 @@
 My turn at making a language!
 
 First and most important of all:
-LOGIC2 files end in .lg. For example, a "Hello World" program might be called HelloWorld.lg .
+LOGIC2 files end in `.lg`. For example, a "Hello World" program might be called `HelloWorld.lg`.
 
 So here we go, basic syntax lesson.<br/>
 So first the basic commands.
